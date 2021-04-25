@@ -16,7 +16,7 @@
 
         $('ul#wp-faq-search-results').empty();
 
-        if (search_results.length == 0 && $(this).val().length == 0) {
+        if (search_results.length == 0 && $(this).val().length > 0) {
 
             $('ul#wp-faq-search-results').append('<li>Keine Ergebnisse :(</li>')
 
