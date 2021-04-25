@@ -13,7 +13,7 @@ Add this shortcut to a post:
 
 The integer represents the category id you want to search. 
 
-If you add this shortcut to a post, you may want to add this post to a category called "fuzzy search page" - this way all other post elements will be removed. 
+If you add this shortcut to a post, you may want to add this post to a category called "fuzzy search page" - this way all other post elements will be removed. But you also may add it to a page. 
 
 This project includes the great fuse-library, where all the magic comes from. I only implented it to run with WordPress :)
 
