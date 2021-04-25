@@ -17,4 +17,4 @@ If you add this shortcut to a post, you may want to add this post to a category 
 
 This project includes the great fuse-library, where all the magic comes from. I only implented it to run with WordPress :)
 
-https://fusejs.io
+https://fusejs.io   
