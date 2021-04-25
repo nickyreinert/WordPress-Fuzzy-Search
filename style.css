@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+/*
+ Theme Name:   Nicky Reinert
+ Theme URI:    https://www.nickyreinert.de
+ Description:  Child-Theme of twentytwentyone
+ Author:       Nicky Reinert
+ Author URI:   https://www.nickyreinert.de
+ Template:     twentytwentyone
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Text Domain:  twentytwentyone-child
+*/
+
+:root {
+  --global--color-background: rgb(233, 233, 233) !important;
+
+}
+
+input#wp-faq-fuzzy-search-query {
+
+  text-transform: uppercase;
+  width: 100%;
+
+}
+
+ul#wp-faq-search-results li {
+
+  list-style-type: none;
+
+}
